@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: rgb(54, 124, 43);
+    color:  rgb(255, 222, 0);
+    letter-spacing: 0px;
+    padding: 30px;
+}
+
+
+.button1 button {
+    float: left;
+    background-color: rgb(54, 124, 43);
+    color:  rgb(255, 222, 0);
+    
+}
+
+
+.btn-success {
+    background-color: rgb(54, 124, 43);
+    color:  rgb(255, 222, 0);
+
+}
+
+.btn-danger{
+    float: right;
+   
+}
+
+
