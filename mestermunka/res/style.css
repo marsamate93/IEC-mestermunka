@@ -27,3 +27,28 @@ h1 {
 }
 
 
+
+@media (max-width: 768px) {
+    .d-flex {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .d-flex > div {
+        margin-bottom: 15px;
+    }
+
+    .btn-danger {
+        float: none;
+        width: 100%;
+    }
+
+    .button1 button {
+        width: 100%;
+    }
+}
+
+.modal-footer .btn {
+    margin-top: 10px;
+}
+
